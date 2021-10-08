@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MintingDapp2/static/css/main.8dff0c6d.chunk.css",
+    "main.js": "/MintingDapp2/static/js/main.dac2013c.chunk.js",
+    "main.js.map": "/MintingDapp2/static/js/main.dac2013c.chunk.js.map",
+    "runtime-main.js": "/MintingDapp2/static/js/runtime-main.fa5a2405.js",
+    "runtime-main.js.map": "/MintingDapp2/static/js/runtime-main.fa5a2405.js.map",
+    "static/js/2.1b3d0afc.chunk.js": "/MintingDapp2/static/js/2.1b3d0afc.chunk.js",
+    "static/js/2.1b3d0afc.chunk.js.map": "/MintingDapp2/static/js/2.1b3d0afc.chunk.js.map",
+    "static/js/3.43ad2436.chunk.js": "/MintingDapp2/static/js/3.43ad2436.chunk.js",
+    "static/js/3.43ad2436.chunk.js.map": "/MintingDapp2/static/js/3.43ad2436.chunk.js.map",
+    "index.html": "/MintingDapp2/index.html",
+    "static/css/main.8dff0c6d.chunk.css.map": "/MintingDapp2/static/css/main.8dff0c6d.chunk.css.map",
+    "static/js/2.1b3d0afc.chunk.js.LICENSE.txt": "/MintingDapp2/static/js/2.1b3d0afc.chunk.js.LICENSE.txt",
+    "static/media/1.1167cb8a.png": "/MintingDapp2/static/media/1.1167cb8a.png",
+    "static/media/reset.css": "/MintingDapp2/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa5a2405.js",
+    "static/js/2.1b3d0afc.chunk.js",
+    "static/css/main.8dff0c6d.chunk.css",
+    "static/js/main.dac2013c.chunk.js"
+  ]
+}
